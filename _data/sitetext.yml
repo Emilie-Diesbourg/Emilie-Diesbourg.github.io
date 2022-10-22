@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: MSc Biology - Aquatic Ecotoxicology, BSc (Hons) Marine Biology
+    title: MSc Biology - Aquatic Ecotoxicology
     text: Emilie Diesbourg
-    button: Tell Me More
+    button: About me
     buttonlink: "#services"
 
   services:
