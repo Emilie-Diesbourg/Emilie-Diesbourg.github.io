@@ -16,7 +16,7 @@ theme:
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Emilie Diesbourg
+title      : Hi, welcome to my world!
 email      : diesboue@mcmaster.ca #this is also the email contact forms will go to
 description: "MSc Biology - Aquatic Ecotoxicology, BSc (Hons) Marine Biology"
 author     : Emilie Diesbourg
