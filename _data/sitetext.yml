@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Emilie Diesbourg
-    text: Hi, Welcome to my world!
+    title: Hi, Welcome to my world!
+    text: Emilie Diesbourg
     button: Tell Me More
     buttonlink: "#services"
 
