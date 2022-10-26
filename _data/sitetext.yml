@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Research"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fa-light fa-microscope #find more at https://fontawesome.com/icons<i class="fa-light fa-microscope"></i>
+        icon: fa-light fa-microscope #find more at https://fontawesome.com/icons<i class="fa-light fa-microscope"></i><i class="fa-light fa-chart-line"></i><i class="fa-solid fa-screen-users"></i>
       - title: "Data Analysis"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        icon: fa-light fa-chart-line
       - title: "Public Outreach"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fa-solid fa-screen-users
 
   portfolio:
     title: "Portfolio"
