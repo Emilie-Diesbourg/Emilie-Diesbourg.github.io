@@ -42,7 +42,7 @@ Outside of my studies you can find me going on walks, exploring the outdoors, or
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
+    title: "Work experience"
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
