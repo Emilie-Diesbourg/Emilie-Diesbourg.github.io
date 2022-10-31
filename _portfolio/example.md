@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: 
   subtitle: Influence of wastewater effluents on microbiomes of downstream macroinvertebrates and riparian spiders from the Bow River, Calgary, AB
-  thumbnail: EmergenceTraps.jpg
+  thumbnail: assets/img/portfolio/EmergenceTraps.jpg
   
 #what displays when the item is clicked:
 title: Influence of wastewater effluents on microbiomes of downstream macroinvertebrates and riparian spiders from the Bow River, Calgary, AB
 subtitle: 
-image: EmergenceTraps.jpg #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/EmergenceTraps.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
