@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: 
+  title: Does wastewaster exposure influence dysbiosis?
   subtitle: Influence of wastewater effluents on microbiomes of downstream macroinvertebrates and riparian spiders from the Bow River, Calgary, AB
   thumbnail: assets/img/portfolio/EmergenceTrapsCropped.jpg
   
