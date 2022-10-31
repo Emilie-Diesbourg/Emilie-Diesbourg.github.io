@@ -2,14 +2,14 @@
 title: Genetic structure of an inner Bay of Fundy Atlantic salmon population
 subtitle: Genetic and phenotypic variation of Atlantic salmon (Salmo salar) young-of-the-year in the
 Upper Salmon River, NB, Canada
-image: assets/img/portfolio/salmon.jpg
+image: assets/img/portfolio/atsalmon.jpg
 alt: Keep Exploring
 
 caption:
   title: Genetic structure of an inner Bay of Fundy Atlantic salmon population
   subtitle: Genetic and phenotypic variation of Atlantic salmon (Salmo salar) young-of-the-year in the
 Upper Salmon River, NB, Canada
-  thumbnail: assets/img/portfolio/salmon.jpg
+  thumbnail: assets/img/portfolio/atsalmon.jpg
 ---
 
 Determining the spatial scale at which genetic structuring occurs is one of the main goals of
