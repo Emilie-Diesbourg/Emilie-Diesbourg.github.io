@@ -1,13 +1,13 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Influence of wastewater effluents on microbiomes of downstream macroinvertebrates and riparian spiders from the Bow River, Calgary, AB
-  subtitle: 
-  thumbnail: https://place-hold.it/400x300
+  title: 
+  subtitle: Influence of wastewater effluents on microbiomes of downstream macroinvertebrates and riparian spiders from the Bow River, Calgary, AB
+  thumbnail: EmergenceTraps.jpg
   
 #what displays when the item is clicked:
 title: Influence of wastewater effluents on microbiomes of downstream macroinvertebrates and riparian spiders from the Bow River, Calgary, AB
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+subtitle: 
+image: EmergenceTraps.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
@@ -17,6 +17,6 @@ This study focuses on the influence of municipal wastewater treatement plant eff
 
 {:.list-inline} 
 - Date: September 2022 - August 2024
--  
+-  Affiliation: McMaster University
 - 
 
