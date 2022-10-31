@@ -36,8 +36,8 @@ Outside of my studies you can find me going on walks, exploring the outdoors, or
         icon: fa-solid fa-screen-users
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Projects"
+    text: ""
     section: portfolio
     closebutton: "Close Project"
 
