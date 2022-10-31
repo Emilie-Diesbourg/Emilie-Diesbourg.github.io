@@ -5,7 +5,7 @@ caption: #what displays in the portfolio grid:
   thumbnail: assets/img/portfolio/EmergenceTrapsCropped.jpg
   
 #what displays when the item is clicked:
-title: 
+title: Does wastewaster exposure influence dysbiosis?
 subtitle: Influence of wastewater effluents on microbiomes of downstream macroinvertebrates and riparian spiders from the Bow River, Calgary, AB
 image: assets/img/portfolio/EmergenceTrapsCropped.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
