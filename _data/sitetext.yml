@@ -26,7 +26,7 @@ Outside of my studies you can find me going on walks, exploring the outdoors, or
     section: About Me
     list:
       - title: "Research"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Previous research I've conducted includes an analysis of mercury bioaccumulation in Dog Whelk across ~120km of the Southern New Brunswick coastline in relation to industrial areas as well as analyzing the spatial genetic structure of the endangered inner Bay of Fundy Atlantic salmon population in the Upper Salmon River, NB."
         icon: fa-solid fa-microscope #find more at https://fontawesome.com/icons<i class="fa-light fa-microscope"></i><i class="fa-light fa-chart-line"></i><i class="fa-solid fa-screen-users"></i>
       - title: "Data Analysis"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
