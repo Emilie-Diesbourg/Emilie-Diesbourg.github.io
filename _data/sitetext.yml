@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: About me
     buttonlink: "#about me"
 
-  About Me:
+  Services:
     title: "About me"
     text: "Hello! I am a Master of Science student at McMaster university studying how exposure to wastewater effluent may affect microbial composition in downstream aquatic macroinvertebrates. I have broad research interests in aquatic/marine conservation and ecotoxicology with particular focus on genomics, contaminant transfer, and microbial ecology. 
 
