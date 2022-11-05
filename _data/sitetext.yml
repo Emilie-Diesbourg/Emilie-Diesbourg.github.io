@@ -50,20 +50,13 @@ Outside of my studies you can find me going on walks, exploring the outdoors, or
     events:
       - title: "Research assistant in environmental toxicology laboratory"
         year: "May-September 2022"
-        desc: "-Assisted with field sampling preparation, Atlantic salmon sampling (smolt wheel collection)/dissections and
-acoustic tagging, water quality monitoring and filtering in Cape Breton, NS
--Ran/performed chloride, NKA, and cortisol assays, otolith extractions, and Atlantic salmon scale aging
--Wrote a scientific manuscript (in review) on PAH pollution in Saint John Harbour sediments, NB"
+        desc: "Assisted with field sampling preparation, Atlantic salmon sampling (smolt wheel collection)/dissections and
+acoustic tagging, water quality monitoring and filtering in Cape Breton, NS. Ran/performed chloride, NKA, and cortisol assays, otolith extractions, and Atlantic salmon scale aging. Wrote a scientific manuscript (in review) on PAH pollution in Saint John Harbour sediments, NB"
         image: assets/img/timeline/Margaree.jpg
         alt:
       - title: "Let's Talk Science Site Coordinator"
         year: "January-April 2022"
-        desc: "
--Planning and managing outreach events
--Teaching STEM subjects to local youth
--In charge of volunteer engagement/recruitment 
--Communicating with local outreach stakeholders
--Training new volunteers"
+        desc: "Planning and managing outreach events, taught STEM subjects to local youth, In charge of volunteer engagement/recruitment, Communicating with local outreach stakeholders, Training new volunteers"
         image: assets/img/timeline/LTS.png
         alt:
       - title: "Jekyll Theme is created"
