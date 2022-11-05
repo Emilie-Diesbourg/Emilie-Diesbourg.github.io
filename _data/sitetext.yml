@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "About me"
-    text: "Hello! I am a Master of Science student at McMaster university studying how exposure to wastewater effluent may affect microbial composition in downstream aquatic macroinvertebrates. I have broad research interests in aquatic/marine conservation and ecotoxicology with particular focus on genomics, contaminant transfer, and microbial ecology. | Some of my past experiences include conducting a wildlife risk assessment to marine sediment contaminants, and a population genetic analysis of Atlantic salmon. | After my graduate studies I would like to pursue a career with aspects of public outreach, conservation, and primary research. Outside of my studies you can find me going on walks, exploring the outdoors, or trying out local restaurants."
+    text: "Hello! I am a Master of Science student at McMaster university studying how exposure to wastewater effluent may affect microbial composition in downstream aquatic macroinvertebrates. I have broad research interests in aquatic/marine conservation and ecotoxicology with particular focus on genomics, contaminant transfer, and microbial ecology. \n Some of my past experiences include conducting a wildlife risk assessment to marine sediment contaminants, and a population genetic analysis of Atlantic salmon. \n After my graduate studies I would like to pursue a career with aspects of public outreach, conservation, and primary research. Outside of my studies you can find me going on walks, exploring the outdoors, or trying out local restaurants."
     section: About Me
     list:
       - title: "Research"
