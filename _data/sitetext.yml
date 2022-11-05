@@ -46,7 +46,7 @@ en: &DEFAULT_EN
     events:
       - title: "Research assistant in environmental toxicology laboratory"
         year: "May-September 2022"
-        desc: "Assisted with field sampling preparation, Atlantic salmon sampling (smolt wheel collection)/dissections and acoustic tagging, water quality monitoring and filtering in Cape Breton, NS| Ran/performed chloride, NKA, and cortisol assays, otolith extractions, and Atlantic salmon scale aging| Wrote a scientific manuscript (in review) on PAH pollution in Saint John Harbour sediments, NB"
+        desc: "Assisted with field sampling preparation, Atlantic salmon sampling (smolt wheel collection)/dissections and acoustic tagging, water quality monitoring and filtering in Cape Breton, NS\n Ran/performed chloride, NKA, and cortisol assays, otolith extractions, and Atlantic salmon scale aging \n Wrote a scientific manuscript (in review) on PAH pollution in Saint John Harbour sediments, NB"
         image: assets/img/timeline/Margaree.png
         alt:
       - title: "Let's Talk Science Site Coordinator"
@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "Academic Achievements"
     text: ""
-    body: "4.2GPA (undergraduate). Recipient of \"Prize in memory of Ellen J. and M. Josephine Lynch\" (2022), recipient of 3 NSERC undergraduate student research awards (2020, 2021, 2022), nominee for Sir Howard Douglas Gold Medal (2022)."
+    body: "4.2 GPA (undergraduate). Recipient of \"Prize in memory of Ellen J. and M. Josephine Lynch\" (2022), recipient of 3 NSERC undergraduate student research awards (2020, 2021, 2022), nominee for Sir Howard Douglas Gold Medal (2022)."
     section: about
 
   clients:
