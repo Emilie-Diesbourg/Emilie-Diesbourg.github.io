@@ -69,8 +69,8 @@ en: &DEFAULT_EN
     end: "Excited for new opportunities in the future!"
 
   about:
-    title: "About"
-    text: "Hello World"
+    title: "Academic Achievements"
+    text: ""
     body: "4.2GPA (undergraduate). Recipient of \"Prize in memory of Ellen J. and M. Josephine Lynch\" (2022), recipient of 3 NSERC undergraduate student research awards (2020, 2021, 2022), nominee for Sir Howard Douglas Gold Medal (2022)."
     section: about
 
