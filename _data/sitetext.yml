@@ -59,10 +59,10 @@ acoustic tagging, water quality monitoring and filtering in Cape Breton, NS. Ran
         desc: "Planning and managing outreach events, taught STEM subjects to local youth, In charge of volunteer engagement/recruitment, Communicating with local outreach stakeholders, Training new volunteers"
         image: assets/img/timeline/LTS.png
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
+      - title: "Research Assistant in Genetics Laboratory"
+        year: "May 2021-September 2021: May 2020-September 2020"
+        desc: "Analyzed and ran genetic parentage tests in CERVUS and COLONY. Analyzed fine-scale genetic structure of Atlantic salmon using microsatellites. Created a GIS map of seascape features and reef structure in Curacao. Practiced essential lab/field skills (collecting samples, DNA extraction, PCR, gel electrophoresis)"
+        image: assets/img/timeline/Gene.png
         alt: image alt text
       - title: "Title"
         year: "2009-2011"
