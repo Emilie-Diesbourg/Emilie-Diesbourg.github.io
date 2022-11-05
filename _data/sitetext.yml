@@ -56,10 +56,15 @@ acoustic tagging, water quality monitoring and filtering in Cape Breton, NS
 -Wrote a scientific manuscript (in review) on PAH pollution in Saint John Harbour sediments, NB"
         image: assets/img/timeline/Margaree.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "Let's Talk Science Site Coordinator"
+        year: "January-April 2022"
+        desc: "
+-Planning and managing outreach events
+-Teaching STEM subjects to local youth
+-In charge of volunteer engagement/recruitment 
+-Communicating with local outreach stakeholders
+-Training new volunteers"
+        image: assets/img/timeline/LTS.png
         alt:
       - title: "Jekyll Theme is created"
         year: "2019"
