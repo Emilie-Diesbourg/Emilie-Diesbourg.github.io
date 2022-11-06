@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Projects"
-    text: "Hello World"
+    text: ""
     section: portfolio
     closebutton: "Close Project"
 
