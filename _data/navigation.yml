@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "About Me"
       section: About Me
-    - title: "projects"
-      section: portfolio
+    - title: "Projects"
+      section: Projects
     - title: "Academic achievements"
       section: academic achievements
     - title: "Work Experience"
