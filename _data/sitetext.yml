@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Research"
         desc: "Previous research I've conducted includes an analysis of mercury bioaccumulation in Dog Whelk across ~120km of the Southern New Brunswick coastline in relation to industrial areas as well as analyzing the spatial genetic structure of the endangered inner Bay of Fundy Atlantic salmon population in the Upper Salmon River, NB."
-        icon: #find more at https://fontawesome.com/icons<i class="fa-light fa-microscope"></i><i class="fa-light fa-chart-line"></i><i class="fa-solid fa-screen-users"></i>
+        icon: fas fa-microscope #find more at https://fontawesome.com/icons<i class="fa-light fa-microscope"></i><i class="fa-light fa-chart-line"></i><i class="fa-solid fa-screen-users"></i>
       - title: "Data Analysis"
         desc: "I'm familiar with several statistical methods of analysis such as ANOVAs, linear models, GLMs, mixed models, logistic regression, non-parametric tests, and multivariate analyses (PCA, DAPC, PCoA, NMDS) in R."
         icon: fas fa-chart-line
       - title: "Public Outreach"
         desc: "I'm passionate about public outreach and have volunteered and worked as a coordinator for Let's Talk Science, a non-profit organization committed to providing a fun and easy learning experience for youth to be exposed to STEM fields at a young age with hopes to inspire them to continue in this field later on in life."
-        icon: fa-screen-users
+        icon: fas fa-screen-users
 
   portfolio:
     title: "Projects"
