@@ -31,10 +31,10 @@ en: &DEFAULT_EN
         desc: "I'm passionate about public outreach and have volunteered and worked as a coordinator for Let's Talk Science, a non-profit organization committed to providing a fun and easy learning experience for youth to be exposed to STEM fields at a young age with hopes to inspire them to continue in this field later on in life."
         icon: fas fa-chalkboard-teacher
 
-  projects:
+  portfolio:
     title: "projects"
     text: ""
-    section: projects
+    section: portfolio
     closebutton: "Close project"
 
   timeline:
