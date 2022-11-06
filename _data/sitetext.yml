@@ -94,7 +94,7 @@ en: &DEFAULT_EN
 
   team:
     title: "Contact"
-    text: "Looking forward to getting in contact with you!"
+    text: "Looking forward to getting in touch with you!"
     subtext: 
     section: team
     people:
