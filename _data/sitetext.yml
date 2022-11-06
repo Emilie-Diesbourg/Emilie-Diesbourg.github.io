@@ -32,9 +32,9 @@ en: &DEFAULT_EN
         icon: fas fa-chalkboard-teacher
 
   projects:
-    title: "projects"
+    title: "Projects"
     text: ""
-    section: projects
+    section: Projects
     closebutton: "Close project"
 
   timeline:
