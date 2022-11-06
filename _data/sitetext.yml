@@ -46,7 +46,7 @@ en: &DEFAULT_EN
     events:
       - title: "Research assistant in environmental toxicology laboratory"
         year: "May-September 2022"
-        desc: "Assisted with field sampling preparation, Atlantic salmon sampling (smolt wheel collection)/dissections and acoustic tagging, water quality monitoring and filtering in Cape Breton, NS > Ran/performed chloride, NKA, and cortisol assays, otolith extractions, and Atlantic salmon scale aging > Wrote a scientific manuscript (in review) on PAH pollution in Saint John Harbour sediments, NB"
+        desc: "Assisted with field sampling preparation, Atlantic salmon sampling (smolt wheel collection)/dissections and acoustic tagging, water quality monitoring and filtering in Cape Breton, NS Ran/performed chloride, NKA, and cortisol assays, otolith extractions, and Atlantic salmon scale aging Wrote a scientific manuscript (in review) on PAH pollution in Saint John Harbour sediments, NB"
         image: assets/img/timeline/Margaree.png
         alt:
       - title: "Let's Talk Science Site Coordinator"
@@ -98,29 +98,9 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+      - name: "Emilie Diesbourg"
+        role: "MSc student"
+        image: assets/img/team/emilie.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
