@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     - title: "About Me"
       section: About Me
     - title: "Projects"
-      section: projects
+      section: Projects
     - title: "Academic achievements"
       section: academic achievements
     - title: "Work Experience"
