@@ -94,8 +94,8 @@ en: &DEFAULT_EN
 
   team:
     title: "Contact"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Looking forward to getting in contact with you!"
+    subtext: 
     section: team
     people:
       - name: "Emilie Diesbourg"
