@@ -14,13 +14,13 @@ en: &DEFAULT_EN
     - title: "About Me"
       section: About Me
     - title: "Projects"
-      section: Projects
-    - title: "Academic Achievements"
-      section: Academic Achievements
+      section: projects
+    - title: "Academic achievements"
+      section: academic achievements
     - title: "Work Experience"
-      section: Work Experience
+      section: work experience
     - title: "Contact"
-      section: Contact
+      section: contact
 
 en-US:
   <<: *DEFAULT_EN
