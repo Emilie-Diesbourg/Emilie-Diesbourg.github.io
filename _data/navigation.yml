@@ -16,8 +16,8 @@ en: &DEFAULT_EN
     - title: "Projects"
       section: portfolio
     - title: "Academic achievements"
-      section: academic achievements
-    - title: "about"
+      section: about
+    - title: "Work Experience"
       section: timeline
     - title: "Contact"
       section: team
