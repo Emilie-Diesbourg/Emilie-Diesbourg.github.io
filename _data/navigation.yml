@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   nav:
     - title: "About Me"
-      section: About Me
+      section: services
     - title: "Projects"
       section: portfolio
     - title: "Academic achievements"
