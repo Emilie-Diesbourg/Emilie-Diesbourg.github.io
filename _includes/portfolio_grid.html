@@ -9,7 +9,7 @@
       </div>
     </div>
     <div class="row">
-	{% for project in site.portfolio %}
+	{% for portfolio in site.portfolio %}
       <div class="col-md-4 col-sm-6 portfolio-item">
         <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
           <div class="portfolio-hover">
@@ -20,8 +20,8 @@
           <img class="img-fluid" src="{{ portfolio.caption.thumbnail }}" alt="">
         </a>
         <div class="portfolio-caption">
-          <h4>{{ project.caption.title }}</h4>
-          <p class="text-muted">{{ project.caption.subtitle }}</p>
+          <h4>{{ portfolio.caption.title }}</h4>
+          <p class="text-muted">{{ portfolio.caption.subtitle }}</p>
         </div>
       </div>
 	{% endfor %}
@@ -38,7 +38,7 @@
       </div>
     </div>
     <div class="row">
-	{% for project in site.portfolio %}
+	{% for portfolio in site.portfolio %}
       <div class="col-md-4 col-sm-6 portfolio-item">
         <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
           <div class="portfolio-hover">
@@ -46,11 +46,11 @@
               <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
             </div>
           </div>
-          <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
+          <img class="img-fluid" src="{{ portfolio.caption.thumbnail }}" alt="">
         </a>
         <div class="portfolio-caption">
-          <h4>{{ project.caption.title }}</h4>
-          <p class="text-muted">{{ project.caption.subtitle }}</p>
+          <h4>{{ portfolio.caption.title }}</h4>
+          <p class="text-muted">{{ portfolio.caption.subtitle }}</p>
         </div>
       </div>
 	{% endfor %}
